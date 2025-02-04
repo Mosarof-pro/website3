@@ -1,3 +1,14 @@
 .ami{
     background-image:url(./image/cat-big.png);
 }
+.dog{
+    width: 40%;
+    background-image: url(./image/cute-pet-small.png);
+    background-size: cover;
+    background-repeat: space;
+    background-position: right;
+    
+    background-color: #f9df8a;
+   padding-bottom: 100px;
+   padding-right: 60px;
+}
