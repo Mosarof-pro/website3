@@ -1,31 +1,49 @@
-.mosar{
-   
-   color: green;
-   
+*{
+    padding: 0;
+    margin: 0;
 }
-form{
-    border: 1px solid red;
+/* heading-prat */
+.headi{
+    padding: 10px 0;
 }
-input{
-    border: 1px solid green;
+.mosarof{
+    font-size: 80px;
+    color: blue;
 }
-input:focus{
-    color: rgb(0, 0, 0);
+
+.mosarof{
+    width: 1000px;
+    height: 600px;
 }
-.mosar:hover{
-    font-size:60px;
-    font-family:playwrite;
-    font-weight: 900;
+/* service-prat */
+.pad{
+    padding: 80px 100px;
+    display: inline-block;
+    border-radius: 0 50px 50px 0;
+    margin-left: 40px;
 }
-div{
-    background: pink;
-    color: green;
-    font-family: playwrite RO;
-    font-weight: 600;
+.seo{
+    padding: 80px 120px;
+    border-radius: 50px 0 0 50px;
+    display: inline-block;
+    margin-right: 40px;
 }
-ul>li:first-child{
-    background-color: green;
+.pade{
+    padding: 80px 55px;
+    display: inline-block;
+    border-radius: 0 50px 50px 0;
+    margin-left: 40px;
 }
-li:nth-child(2n+1){
-    background-color: blue;
+/* contact-prat */
+.mosarof1{
+    padding: 8px 25px;
+    border-radius: 4px;
+    text-shadow: 1px -1px rgb(255, 255, 255);
+    letter-spacing: 2px;
+}
+/* fotter-prat */
+.fotter{
+    font-size: 20px;
+    padding: 25px 0;
+    margin-top: 10px;
 }
